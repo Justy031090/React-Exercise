@@ -1,0 +1,16 @@
+.App {
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url();
+}
+.imageOne .imageTwo {
+    width: 25%;
+}
+
+.App img {
+    height: 600px;
+    width: 600px;
+    margin: 2rem;
+}

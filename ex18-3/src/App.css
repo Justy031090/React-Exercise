@@ -1,0 +1,11 @@
+.App div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+}
+.App input {
+    width: 100px;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}

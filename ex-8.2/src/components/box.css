@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box{
+    height: 80vh;
+    width: 80vh;
+}
+.circle{
+    width: 80vh;
+    height: 80vh;
+    border-radius:40vh;
+}
